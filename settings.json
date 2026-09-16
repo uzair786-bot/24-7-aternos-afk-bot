@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "SoloCloudHosting",
-    "password": "",
+    "password": "56774",
     "type": "offline"
   },
   "server": {
-    "ip": "dimons_smp.aternos.me",
+    "ip": "dimons_smp-Okwl.aternos.me",
     "port": 38313,
     "version": "1.20.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I am a friend of Only_Uzi",
+        "Subscribe to Only_Uzi!",
+        "hello everyone"
       ]
     },
     "chat-log": true,
